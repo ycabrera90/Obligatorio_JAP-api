@@ -1,9 +1,6 @@
 [
     {
-        "name": "Autos",
-        "description": "Los mejores precios en autos 0 kilómetro, de alta y media gama.",
-        "productCount": "122",
-        "imgSrc": "img/cat1.jpg"
+        "loggin": "SI",
     }
     
 ]
